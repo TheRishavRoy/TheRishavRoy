@@ -3,7 +3,7 @@
 - 🎓 M.Tech in CSE from NIT Bhopal (Batch 2022)  
 - 👀 I’m interested in competitive coding  
 - 🌱 I’m currently learning system design & cloud concepts  
-- 🚀 I have experience in networking protocols like QoS, ERPS, STP/RSTP, and IGMP  
+- 🚀 I have experience in networking protocols like QoS, ERPS, STP/RSTP/MSTP, Counter Processors and IGMP. Experience with DNX ASIC, BCM SDK.  
 - 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/the-rishav-roy)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I can play table tennis, badminton, and cricket but don’t know how to swim 😆  
